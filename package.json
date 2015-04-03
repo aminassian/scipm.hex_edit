@@ -13,7 +13,9 @@
         "url": "git://github.com/aminassian/scipm.hex_edit/issues"
     },
     "keywords": [
-        "scipm-package"
+        "scipm-package",
+        "viewer",
+        "hex"
     ],
     "dependencies": {
         "scipm": "^1.0.0"
