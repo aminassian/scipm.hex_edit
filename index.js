@@ -1,0 +1,1 @@
+console.log("scipm.hex_edit is not a classic nodejs/iojs module")
