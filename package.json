@@ -1,7 +1,7 @@
 {
     "main": "index.js",
     "name": "scipm.hex_edit",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "basic hex viewer and editor",
     "license": "GPL-3.0",
     "repository": {

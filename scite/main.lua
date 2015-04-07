@@ -1858,8 +1858,6 @@ end
 function HexEditorNew() HexEditorBase(true) end
 
 -- somehow SciTE needs this, otherwise it can't see current properties
-function HexEditor()
-
 scipm.hex_edit.HexEditor = function()
     HexEditorBase()
 end
